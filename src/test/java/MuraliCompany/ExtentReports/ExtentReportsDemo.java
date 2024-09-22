@@ -40,4 +40,11 @@ public class ExtentReportsDemo {
 	System.out.println("Gitstuff source for this line");
 	}
 	
+	@Test
+	public void developbmethod() {
+	
+	
+	System.out.println("Hey i am in develop branch ");
+	System.out.println("Hey i am in created method to diff ");
+}
 }
