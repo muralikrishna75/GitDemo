@@ -33,6 +33,8 @@ public class ExtentReportsDemo {
 		  test.fail("Results do not match");
 		extent.flush();
 	System.out.println("Git demo source for this line");
+	System.out.println("Git demo source for this line");
+	System.out.println("Git demo source for this line");
 	}
 	
 }
