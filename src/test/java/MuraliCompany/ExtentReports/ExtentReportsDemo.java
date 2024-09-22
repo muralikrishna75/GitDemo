@@ -20,6 +20,7 @@ public class ExtentReportsDemo {
 		 reporter.config().setDocumentTitle("Test Results");
 		 extent.attachReporter(reporter);
 		 extent.setSystemInfo("Tesster", "Murali Krishna");
+			System.out.println("Gitstuff source for this line");
 		 
 		 
 	 }
@@ -35,6 +36,8 @@ public class ExtentReportsDemo {
 	System.out.println("Git demo source for this line");
 	System.out.println("Git demo source for this line");
 	System.out.println("Git demo source for this line");
+	System.out.println("Gitstuff source for this line");
+	System.out.println("Gitstuff source for this line");
 	}
 	
 }
